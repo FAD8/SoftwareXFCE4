@@ -47,7 +47,7 @@ y
 ls -a
 ```
 ```
-cd start-stop
+cd .start-stop
 ```
 ```
 ls
